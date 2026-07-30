@@ -1,12 +1,12 @@
 
 let equipe2 = [
     {
-        nome: "gustavo"
+        nome: "ana"
         cargo: "desenvolvedora"
         idade: 28
     },
 {
-        nome: "bruna"
+        nome: "bruno"
         cargo: "designer"
         idade: 32
     }
