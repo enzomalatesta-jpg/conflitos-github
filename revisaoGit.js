@@ -1,4 +1,4 @@
-let equipe = [
+let equipe2 = [
     {
         nome: "ana"
         cargo: "desenvolvedora"
